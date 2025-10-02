@@ -39,7 +39,7 @@ function Home() {
               perfect room for an unforgettable stay.
             </p>
             {/* Booking form */}
-            <div className="bg-white/90 backdrop-blur-md rounded-full flex flex-wrap justify-center items-center px-4 py-2 space-x-0 sm:space-x-4 w-full max-w-2xl">
+            <div className="bg-white/90 backdrop-blur-md rounded-[2rem] flex flex-wrap justify-center items-center px-4 py-2 space-x-0 sm:space-x-4 w-full max-w-2xl">
               <input
                 type="text"
                 placeholder="Check‑in Date"
